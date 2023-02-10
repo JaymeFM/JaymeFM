@@ -1,5 +1,5 @@
-## I'm your avarage 16 year old programmer. Hope you enjoy my GitHub! If you do, drop a follow/star!
-
+## JaymeFM
+I'm your avarage 16 year old programmer. Hope you enjoy my GitHub! If you do, drop a follow/star!
 
 ## My Languages
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://bit.ly/Lua-JaymeFM)
