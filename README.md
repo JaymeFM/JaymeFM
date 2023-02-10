@@ -10,4 +10,3 @@ I'm your avarage 16 year old programmer. Hope you enjoy my GitHub! If you do, dr
 ## My Platforms 
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/jaymefm)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/jaymefm)
-![image](https://user-images.githubusercontent.com/105801777/218153851-4f933e22-0d48-44a2-880e-997a1e93efe2.png)
