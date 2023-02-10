@@ -2,7 +2,7 @@
 I'm your avarage 16 year old programmer. Hope you enjoy my GitHub! If you do, drop a follow/star!
 
 ## Occupation
-- I'm currently working on a Turfs script for FiveM combat servers.
+I'm currently working on a Turfs script for FiveM combat servers.
 
 ## Workstation
 Setup:
