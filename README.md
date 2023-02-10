@@ -1,7 +1,7 @@
-## JaymeFM
-I'm your avarage 16 year old programmer. Hope you enjoy my GitHub! If you do, drop a follow/star!
+## Me
+My name is Jayme and I am just your average 16 year old programmer excited to learn as much as possible. I hope you enjoy my GitHub! If you do, drop a follow/star!
 
-## Occupation
+## My Occupation
 I'm currently working on a Turfs script for FiveM combat servers.
 
 ## My Languages
@@ -11,7 +11,7 @@ I'm currently working on a Turfs script for FiveM combat servers.
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](http://bit.ly/3RNumW6)
 [![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=whit)](http://bit.ly/3K0NKgm)
 
-## Workstation
+## My Workstation
 Setup:
 - Keyboard : Razer Blackwidow V2 Chroma
 - Mouse : Razer Mamba Tournament Edition
