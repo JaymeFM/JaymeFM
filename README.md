@@ -11,25 +11,6 @@ I'm currently working on a Turfs script for FiveM combat servers.
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](http://bit.ly/3RNumW6)
 [![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=whit)](http://bit.ly/3K0NKgm)
 
-## My Workstation
-Setup:
-- Keyboard : Razer Blackwidow V2 Chroma
-- Mouse : Razer Mamba Tournament Edition
-- Headphones : Steelseries Arctis 7
-- Microphone : Rode Broadcaster
-- Audio Interface : GoXLR Mini
-- Camera : Sony A6000
-- Capture Card : Elgato Cam Link 4K
-- Lighting : Elgato Keylight
-
-PC:
-- Operating System : Windows 10 Pro
-- Motherboard : MSI B360M PRO-VH 
-- Processor : Intel Core i5-9400F
-- Graphics Card : Nvidia RTX 2060 
-- Physichal Memory : 2 * Corsair Vengeance RGB Pro 8GB
-- Power Supply : Cooler Master Elite V3 600W
-
 ## My Platforms 
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/jaymefm)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/jaymefm)
