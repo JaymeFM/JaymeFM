@@ -1,5 +1,5 @@
 ## Me
-My name is Jayme and I am just your average 16 year old programmer excited to learn as much as possible. I hope you enjoy my GitHub! If you do, drop a follow/star!
+My name is Jayme and I am just your average 17 year old programmer excited to learn as much as possible. I hope you enjoy my GitHub! If you do, drop a follow/star!
 
 ## My Occupation
 I'm currently working on a Turfs script for FiveM combat servers.
