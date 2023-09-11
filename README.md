@@ -2,7 +2,7 @@
 My name is Jayme and I am just your average 17 year old programmer excited to learn as much as possible. I hope you enjoy my GitHub! If you do, drop a follow/star!
 
 ## My Occupation
-I'm currently working on a Turfs script for FiveM combat servers.
+I am currently doing an internship at a company that makes 3D configurators with three.js.
 
 ## My Languages
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://bit.ly/Lua-JaymeFM)
