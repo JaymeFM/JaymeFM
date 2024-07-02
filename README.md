@@ -1,5 +1,5 @@
 ## Me
-My name is Jayme and I am just your average 17 year old programmer excited to learn as much as possible. I hope you enjoy my GitHub! If you do, drop a follow/star!
+My name is Jayme and I am just your average 18 year old programmer excited to learn as much as possible. I hope you enjoy my GitHub! If you do, drop a follow/star!
 
 ## My Occupation
 I am currently doing an internship at a company that makes 3D configurators using three.js.
